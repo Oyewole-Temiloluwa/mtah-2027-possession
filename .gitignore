@@ -1,0 +1,9 @@
+# the match data is gated and not redistributable: keep it, its caches and any labels out
+data/
+cache/
+*.npz
+*.mp4
+*.pt
+*.csv
+__pycache__/
+.venv*/

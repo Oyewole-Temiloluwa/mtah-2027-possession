@@ -1,0 +1,11 @@
+# Every package pinned (Python 3.12) so the submission file regenerates byte for byte.
+# Direct: numpy, pandas, scikit-learn, scipy. The rest are their dependencies.
+cloudpickle==3.1.2
+joblib==1.6.0
+numpy==2.5.4
+pandas==3.0.6
+python-dateutil==4.0.0
+scikit-learn==1.5.2
+scipy==1.18.1
+threadpoolctl==3.7.0
+tzdata==2026.6
